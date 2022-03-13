@@ -3,7 +3,7 @@
 
 |💚 |My Socials|Links|
 |:-------------:| :------------ |:-------------|
-| 🚀| My Projects      | https://choozn.ml/ |
+| 🚀| My Website      | https://choozn.dev/ |
 | ❓| My StackOverflow      | [@choozn](https://stackoverflow.com/users/14097941/choozn)      |
 | 📞|My Discord |@choozn#6498|
 | 🐦︎|My Twitter |[@choozn_dev](https://twitter.com/choozn_dev)|
