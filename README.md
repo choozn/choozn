@@ -12,5 +12,5 @@ ___
 ### You can find me here: 
 🐦︎ [@choozn_dev](https://twitter.com/choozn_dev)
 ❓ [@choozn](https://stackoverflow.com/users/14097941/choozn)
-📞 [@choozn#6498](https://discord.gg/sjyGndhqCt)
+📞 [@choozn](https://discord.gg/sjyGndhqCt)
 🌳 https://linktr.ee/choozn
