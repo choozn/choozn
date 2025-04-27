@@ -1,6 +1,6 @@
 # Hey 👋
 
-I am choozn and I like to code stuff. I love Typescript, and I am a big advocate of clean code.  
+I am choozn and I like to code stuff.
 
 You might know me from my previous projects, such as PopupDB (https://popupdb.org).  
 Currently, I am working at [@readay-official](https://github.com/readay-official).  
